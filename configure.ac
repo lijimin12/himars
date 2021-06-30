@@ -1,4 +1,4 @@
-AC_INIT([himars], [1.0], [jimin.li@microchip.com])
+AC_INIT(himars, 0.1, li.jimin@hotmail.com)
 AM_INIT_AUTOMAKE([-Wall -Werror foreign])
 AC_PROG_CC
 AC_CONFIG_HEADERS([config.h])
